@@ -8,7 +8,7 @@ body{
 .background{
     position:absolute;
     margin-top: 0px;
-    background-image: url(/assets/images/bg.jpg);
+    background-image: url(assets/images/bg.jpg);
     background-position: center;
     height:813px;
     opacity: 0.4;
