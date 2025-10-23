@@ -180,7 +180,7 @@ span select option:nth-child(n){
     /* margin: 10px 100px 10 100px */
     
 }
-.main h2{
+.main .scrollsection h2{
     
     margin: 20px 0 20px 0;
     color:white;
